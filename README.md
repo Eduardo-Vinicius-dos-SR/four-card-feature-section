@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-FhYz_OQYNP)
+- Live Site URL: [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Eduardo-Vinicius-dos-SR](https://www.frontendmentor.io/profile/Eduardo-Vinicius-dos-SR)
 
 # Front-end Style Guide
 
