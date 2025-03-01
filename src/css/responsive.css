@@ -1,0 +1,49 @@
+@media (max-width: 1200px) or (max-height: 750px) {
+	.container .header {
+		margin-bottom: 50px;
+	}
+
+	.header .description {
+		font-size: 1.4rem;
+	}
+
+	.container .cards {
+		grid-template:
+			"supervisor builder" 1fr
+			"karma calculator" 1fr
+			/ 1fr 1fr;
+		gap: 25px 35px;
+	}
+}
+
+@media (max-width: 750px) {
+	.container .cards {
+		grid-template:
+			"supervisor" 1fr
+			"builder" 1fr
+			"karma" 1fr
+			"calculator" 1fr / 1fr;
+	}
+}
+
+@media (max-width: 500px) {
+	.header {
+		padding: 0 25px;
+	}
+
+	.header .title {
+		font-size: 2.5rem;
+	}
+
+	.header .description {
+		font-size: 1.6rem;
+	}
+
+	.card h2 {
+		font-size: 2.4rem;
+	}
+
+	.card p {
+		font-size: 1.6rem;
+	}
+}
